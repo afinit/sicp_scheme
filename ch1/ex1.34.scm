@@ -1,0 +1,1 @@
+; the interpreter attempts to apply 2 as a method
